@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: peerReview
+Implementation-Version: 0.1.0
+Built-By: anooshik
+Implementation-Vendor-Id: com.a-vrtn.peerReview
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/peerReview/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
